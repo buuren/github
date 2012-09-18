@@ -17,3 +17,8 @@
 	git commit -m "adding readme..."
 	git remote add github_usage https://github.com/buuren/github_usage.git
 	git push -u github_usage master
+	
+===	Misc stuff ===
+
+1.	Delete files:
+	git commit -a -m "A file was deleted"
