@@ -7,7 +7,7 @@
 ===	Working with GitHub ===
 
 1. Clone repo:
-	git clone  git clone https://github.com/buuren/github_usage.git
+	git clone https://github.com/buuren/github_usage.git
 	cd github_usage
 	git init
 2. Copy/Add files:
